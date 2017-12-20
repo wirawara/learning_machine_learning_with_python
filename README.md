@@ -1,14 +1,14 @@
 Learning Machine Learning Methods with Python
 ========
 
-Repository of small projects and learning the machine learning with scikit-learn and others.
+Repository of small projects and learning the machine learning methods  with scikit-learn and others.
 
 Table of Contents
 -----------------
 
-* [Supervised learning]
-	* [Classification and Regression]
-* [Projects] 
+* [Supervised learning] (#Supervised-learning)
+	* [Classification and Regression] (#Classification-and-regression)
+* [Projects] (#Projects)
 
 
 Supervised learning
