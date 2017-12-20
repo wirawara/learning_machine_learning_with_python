@@ -6,9 +6,9 @@ Repository of small projects and learning the machine learning methods  with sci
 Table of Contents
 -----------------
 
-* [Supervised learning] (#Supervised-learning)
-	* [Classification and Regression] (#Classification-and-regression)
-* [Projects] (#Projects)
+* [Supervised learning](#supervised-learning)
+	* [Classification and Regression](#classification-and-regression)
+* [Projects](#projects)
 
 
 Supervised learning
